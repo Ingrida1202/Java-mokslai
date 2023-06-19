@@ -8,7 +8,6 @@ public class Uzduotis1 {
         String zodis2 = "ropė";
         int sk2 = 7;
         System.out.println(KurisIlgesnis(zodis2,sk2) );
-
         
     }
 
